@@ -1,0 +1,19 @@
+.di {
+  float: center;
+  width: 600px;
+
+  margin: auto;
+}
+
+.a{
+  float:left;
+}
+
+.f {
+  width: 100px;
+  margin: auto;
+}
+header {
+  width: 100px;
+  margin: auto;
+}
